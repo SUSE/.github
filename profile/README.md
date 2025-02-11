@@ -35,6 +35,15 @@ SUSE offers Linux, container management, and edge computing solutions.
 |[susemanager-ci](https://github.com/SUSE/susemanager-ci)|CI infrastructure for SUSE Multi-Linux Manager|
 
 
+## SUSE Customer Center
+
+|Repository|Description|
+|--|--|
+|[rmt](https://github.com/SUSE/rmt)|RPM repository mirroring tool and registration proxy for SUSE Customer Center|
+|[container-suseconnect](https://github.com/SUSE/container-suseconnect)|Zypp service plugin to give access to Customer repositories during docker builds|
+|[connect-ng](https://github.com/SUSE/connect-ng)|command line tool for connecting a client system to the SUSE Customer Center|
+
+
 ## SUSE Telemetry
 
 |Repository|Description|
