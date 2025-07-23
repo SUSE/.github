@@ -55,9 +55,13 @@ SUSE offers Linux, container management, and edge computing solutions.
 
 |Repository|Description|
 |--|--|
-|[SAPHanaSR](https://github.com/SUSE/SAPHanaSR)|SAP HANA System Replication Resource Agent for Pacemaker Cluster|
+|[SAPHanaSR-angi](https://github.com/SUSE/SAPHanaSR)|SAP HANA System Replication resource agents for Pacemaker Cluster|
+|[SAPStartSrv-resourceAgent](https://github.com/SUSE/SAPStartSrv-resouceAgent)|SAPStartSrv resource agent for Pacemaker Cluster|
+|[sap-suse-cluster-connector](https://github.com/SUSE/sap-suse-cluster-connector)|HA interface between SAP systems and resource agents|
 |[saptune](https://github.com/SUSE/saptune)|prepare a system to run SAP workloads by implementing the recommendations of various SAP notes|
-
+|[supportutils-plugin-ha-sap](https://github.com/SUSE/supportutils-plugin-sap-ha)|SLES for SAP plugin for supportconfig|
+|[sap_host_exporter](https://github.com/SUSE/sap_host_exporter)|Prometheus exporter for SAP systems (SAP S/4 HANA and SAP Netweaver hosts)|
+|[hanadb_exporter](https://github.com/SUSE/hanadb_exporter)|Prometheus exporter for SAP HANA databases|
 
 ## Legal
 
