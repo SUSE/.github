@@ -8,6 +8,7 @@ SUSE offers Linux, container management, and edge computing solutions.
 |Repository|Description|
 |--|--|
 |[BCI-dockerfile-generator](https://github.com/SUSE/BCI-dockerfile-generator)|SUSE Base Container Images Dockerfile Generator|
+|[BCI-tests](https://github.com/SUSE/BCI-tests)|SUSE Base Container Images Test Suite|
 
 
 ## SUSE Documentation
